@@ -1,1 +1,1 @@
-SELECT* FROM character WHERE first_name AS tie-breaker ORDER BY last_name ASC
+SELECT* FROM character WHERE first_name AS 'tie-breaker' ORDER BY last_name ASC;
