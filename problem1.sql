@@ -1,1 +1,1 @@
-SELECT* FROM character ORDER BY last_name ASC;
+SELECT* FROM character ORDER BY last_name ASC AND first_name AS tie-breaker
